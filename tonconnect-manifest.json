@@ -1,5 +1,7 @@
 {
-  "url": "https://github.com/SivchSP/Manifest/blob/main/tonconnect-manifest.json/",
+  "url": "https://raw.githubusercontent.com/SivchSP/Manifest/main/tonconnect-manifest.json",
   "name": "Demo Dapp with React UI",
-  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png"
+  "iconUrl": "https://raw.githubusercontent.com/SivchSP/Manifest/main/icon.png",
+  "termsOfUseUrl": "https://github.com/SivchSP/Manifest/blob/main/TERMS.md",
+  "privacyPolicyUrl": "https://github.com/SivchSP/Manifest/blob/main/PRIVACY.md"
 }
